@@ -1,5 +1,5 @@
 <?php
-$receiving_email_address = 'ayubahmedaden123@gmail.com';
+$receiving_email_address = 'ayubahmed00@hotmail.com';
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $name = strip_tags(trim($_POST["name"]));
